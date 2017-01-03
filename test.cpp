@@ -2,5 +2,6 @@
 
 int main(){
 	hello();
+	good();
 	return 0;
 } 
