@@ -1,4 +1,4 @@
-#include "test.h"
+#include "head/test.h"
 
 int main(){
 	hello();
